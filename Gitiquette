@@ -1,22 +1,22 @@
-Draft
+# Gitiquette - Draft
 
-*Always work on a branch (never commit on master)
+##Always work on a branch (never commit on master)
   If the origin of the PR would be a ticket, create a branch with its number. (INCxxx, SRQxxx, CHxxx)
 
 
-*In order to keep our Git organisation maintainable, readable and usable by all engineers we use a strict structure on repository naming.
+##In order to keep our Git organisation maintainable, readable and usable by all engineers we use a strict structure on repository naming.
 
  <team>-<location>-<project>-<repository-name>
    |                   |           |
-   |                   |           â””â”€â«¸ A short description of your repository, optionally separated by hyphens (-).
+   |                   |           |->¸ A short description of your repository, optionally separated by hyphens (-).
    |                   |
-   |                   â””â”€â«¸ The current project this  applies to.
+   |                   |->¸ The current project this  applies to.
    |
-   â””â”€â«¸ The Git team that own your repository.
+   |->¸ The Git team that own your repository.
 
 migration-pt-automation-
    
-*Repository Name
+##Repository Name
   The name of your repository, short but descriptive.
 
   Good examples:
@@ -25,8 +25,7 @@ migration-pt-automation-
 
 
 
-
-*Commit messages are recommended to following the following similar to PRs:
+##Commit messages are recommended to following the following similar to PRs:
    [FEAT]     : Introducing a new features.
    [FIX]      : This is essentially a patch to fixes, hotfixes, etc.
    [DOC]      : Any changes to the documentation. Examples: Cli-help, readme, tutorial, documentation, CHANGELOG, etc.
@@ -37,7 +36,7 @@ migration-pt-automation-
 
 
 
-How to write good commit messages
+##How to write good commit messages
 Capitalized, short (50 chars or less) summary
 
 More detailed explanatory text, if necessary.  Wrap it to about 72
@@ -65,6 +64,6 @@ like so:
 
 Resolves: #123
 
-Useful Links:
+##Useful Links:
 https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/
 https://chris.beams.io/posts/git-commit/
