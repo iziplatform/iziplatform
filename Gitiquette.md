@@ -65,5 +65,5 @@ like so:
 Resolves: #123
 
 ## Useful Links:
-https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/
-https://chris.beams.io/posts/git-commit/
+[How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/) </br>
+[How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
