@@ -1,4 +1,5 @@
 # Gitiquette - Draft
+  A Combination of Git and etiquette. It defines standards for a good collaboration between member of the project. 
 
 ## Always work on a branch (never commit on master)
   If the origin of the PR would be a ticket, create a branch with its number. (INCxxx, SRQxxx, CHxxx)
