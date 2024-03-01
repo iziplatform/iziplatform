@@ -1,7 +1,13 @@
 # Gitiquette - Draft
   A Combination of Git and etiquette. It defines standards for a good collaboration between member of the project. 
 
-## Always work on a branch (never commit on master)
+## Best practices guidelines.
+1. Restrict/Avoid commits directly to master/main branch - this prevents conflict to occur
+2. Meaningful commit messages - improves collaboration
+3. Frequent small commits - helps in code review, easier tracking of bugs
+4. Regularlly Pull and Rebase - minimizes merge conflicts
+
+## Always work on a branch 
   If the origin of the PR would be a ticket, create a branch with its number. (INCxxx, SRQxxx, CHxxx)
 
 
@@ -24,7 +30,12 @@
     recycling-app-frontend<br/>
     poverty-awareness-functions<br/>
 
-
+## Branching naming conventions
+  - Use separators such as hyphen (-) or slash (/) to improve readability. Try to maintain consitency (choose one or another)
+  - Using categories in branch names are very welcome. Some categories could be: hotfix, bugfix, feature, test, etc. Examples:
+    - ```hotfix-frontend-landingpage```
+    - ```feature-new-readme```
+  
 
 ## Commit messages are recommended to following the following similar to PRs:
    [FEAT]     : Introducing a new features.<br/>
