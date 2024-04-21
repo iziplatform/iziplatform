@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izilon. Work as DevOps | Cloud Engineer somewhere.
+- 👋 Hi, I’m IZI. Work as DevOps | Cloud Engineer somewhere.
 - 👀 I’m interested in Cloud and DevOps stuff mainly.
 - 🌱 I’m currently learning Python, K8S, Kafka and Sony CDJs (just for the fun).
 - 💞️ I’m looking to collaborate on K8s and Cloud Stuff (Azure)
