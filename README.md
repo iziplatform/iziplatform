@@ -14,7 +14,17 @@ Senior Platform practitioner with 10+ years of enterprise experience automating,
 
 ### ⚡ Active Quest: Knowledge Loading...
 ```text
-📦 ArgoCD & In-Cluster GitOps        [████████████████░░░░] 80% (In Lab)
-☸️  CKA (Kubernetes Deep-Dive)        [████████████░░░░░░░░] 60% (Active Prep)
-🤖 AI Platform Ops & LLM Tooling     [████████░░░░░░░░░░░░] 45% (Research)
+📦 ArgoCD & In-Cluster GitOps        [███░░░░░░░░░░░░░░░░░] 15% (Starting Labs)
+☸️  CKA (Kubernetes Deep-Dive)        [██████████████░░░░░░] 70% (Retake Prep)
+🤖 AI Platform Ops & LLM Tooling     [████░░░░░░░░░░░░░░░░] 20% (Foundations)
 🎧 Sony CDJs & DJing (for the soul)  [██████████████████░░] 90% (Grooving)
+
+🛠️ Core Tech Stack
+Cloud: Microsoft Azure (6+ yrs) · Google Cloud Platform (GCP)
+IaC & Tooling: Terraform · HCL · YAML · Bash · Python · GitOps
+Containers: Kubernetes (AKS & GKE) · Helm · Docker
+Certifications: 6x Microsoft Certified (Azure Solutions Architect Expert, DevOps Expert, AI Engineer Associate)
+
+📬 Connect With Me
+💼 LinkedIn: linkedin.com/in/siqueirabrodolfo
+✉️ Email: rodolfo-siqueira@hotmail.com
